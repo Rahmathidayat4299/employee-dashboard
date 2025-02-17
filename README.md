@@ -26,7 +26,7 @@ Perusahaan Jaya jaya bergerak di bidang teknologi pendidikan, dengan fokus pada 
 Dashboard ini dirancang untuk memberikan insight mendalam mengenai tren attrition karyawan di perusahaan Edutech.
 
 ### Komponen Utama dalam Dashboard
-## link Dashboard => https://public.tableau.com/views/employeedata_17396347287900/DashboardEmployee?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+*link Access Dashboard => https://public.tableau.com/views/employeedata_17396347287900/DashboardEmployee?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 1. **Attrition & Salary Trends** – Menganalisis hubungan antara pendapatan bulanan dan tingkat keluar karyawan.
 2. **Over Time vs Attrition** – Menunjukkan dampak jam kerja lembur terhadap attrition.
 3. **Job Satisfaction** – Memetakan tingkat kepuasan kerja di setiap departemen.
