@@ -27,9 +27,9 @@ Perusahaan Jaya jaya bergerak di bidang teknologi pendidikan, dengan fokus pada 
    `uv venv .venv`
    `.venv\Scripts\activate`
    `uv venv .venv `
-source `.venv/bin/activate`
+* source `.venv/bin/activate`<br>
 2️⃣ **Install Dependensi yang Dibutuhkan**
-   `uv pip install pandas matplotlib seaborn scikit-learn joblib`
+   `uv pip install pandas matplotlib seaborn scikit-learn joblib`<br>
 3️⃣ **Generate requirements.txt**
     `uv pip freeze > requirements.txt`
 ## 📊 Business Dashboard
