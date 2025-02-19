@@ -19,47 +19,18 @@ Perusahaan Jaya jaya bergerak di bidang teknologi pendidikan, dengan fokus pada 
 - Data HR perusahaan yang mencakup informasi karyawan, gaji, jam kerja, departemen, dan tingkat kepuasan kerja.
 
 ### Setup Environment
-🔧 Cara Setup Virtual Environment dengan uv
-1️⃣ Buat dan Aktifkan Virtual Environment
-sh
-Salin
-Edit
-uv venv .venv
-Windows:
-sh
-Salin
-Edit
-.venv\Scripts\activate
-Mac/Linux:
-sh
-Salin
-Edit
+1️⃣ **Buat dan Aktifkan Virtual Environment**
+
+   **Windows:**
+   ```sh
+   uv venv .venv
+   .venv\Scripts\activate
+   uv venv .venv
 source .venv/bin/activate
 2️⃣ Install Dependensi yang Dibutuhkan
-sh
-Salin
-Edit
 pip install pandas matplotlib seaborn scikit-learn joblib
 3️⃣ Generate requirements.txt
-sh
-Salin
-Edit
-uv pip freeze > requirements.txt
-4️⃣ Install requirements.txt di Environment Lain (Opsional)
-sh
-Salin
-Edit
-pip install -r requirements.txt
-Dengan setup ini, proyek kamu sudah siap dengan environment yang optimal! 🚀
-
-
-
-
-
-
-
-
-
+pip freeze > requirements.txt
 ## 📊 Business Dashboard
 Dashboard ini dirancang untuk memberikan insight mendalam mengenai tren attrition karyawan di perusahaan Edutech.
 
