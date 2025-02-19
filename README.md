@@ -28,9 +28,9 @@ Perusahaan Jaya jaya bergerak di bidang teknologi pendidikan, dengan fokus pada 
    `.venv\Scripts\activate`
    `uv venv .venv `
 source `.venv/bin/activate`
-2️⃣ Install Dependensi yang Dibutuhkan
+2️⃣ **Install Dependensi yang Dibutuhkan**
    `uv pip install pandas matplotlib seaborn scikit-learn joblib`
-3️⃣ Generate requirements.txt
+3️⃣ **Generate requirements.txt**
     `uv pip freeze > requirements.txt`
 ## 📊 Business Dashboard
 Dashboard ini dirancang untuk memberikan insight mendalam mengenai tren attrition karyawan di perusahaan Edutech.
