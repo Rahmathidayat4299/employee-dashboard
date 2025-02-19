@@ -16,8 +16,8 @@ Perusahaan Jaya jaya bergerak di bidang teknologi pendidikan, dengan fokus pada 
 
 ## 📂 Persiapan
 ### Sumber Data
+* https://www.ibm.com/communities/analytics/watson-analytics-blog/watson-analytics-use-case-for-hr-retaining-valuable-employees/
 
-- Data HR perusahaan yang mencakup informasi karyawan, gaji, jam kerja, departemen, dan tingkat kepuasan kerja.
 
 ### Setup Environment
 1️⃣ **Buat dan Aktifkan Virtual Environment**<br>
